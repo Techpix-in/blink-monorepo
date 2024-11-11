@@ -1,0 +1,12 @@
+{
+  "name": "blink-monorepo",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "packages/blink",
+    "packages/blink-client"
+  ]
+}
